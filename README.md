@@ -32,7 +32,7 @@ I'm constantly improving my skills and learning new technologies to build better
 🔧 **Technologies:** HTML, CSS  
 A simple HTML/CSS webpage showcasing my CSS skills.
 
-### 2. [Blog-app](link-to-your-project)
+### 2. [Blog-app](https://shomiqs.github.io/Blog-app/)
 🔧 **Technologies:** HTML, CSS, JavaScript  
 Javascript focused blog app. 
 
