@@ -28,7 +28,7 @@ I'm constantly improving my skills and learning new technologies to build better
 
 ## 🛠 Projects
 
-### 1. [Build-estate](link-to-your-project)
+### 1. [Build-estate](https://shomiqs.github.io/Build-Estate-Responsive-Project/)
 🔧 **Technologies:** HTML, CSS  
 A simple HTML/CSS webpage showcasing my CSS skills.
 
