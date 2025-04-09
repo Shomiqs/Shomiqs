@@ -30,7 +30,7 @@ I'm constantly improving my skills and learning new technologies to build better
 
 ### 1. [Build-estate](https://shomiqs.github.io/Build-Estate-Responsive-Project/)
 🔧 **Technologies:** HTML, CSS  
-A simple HTML/CSS webpage showcasing my CSS skills.
+A simple, mobile first, fully responsive HTML/CSS webpage showcasing my CSS skills.
 
 ### 2. [Blog-app](https://shomiqs.github.io/Blog-app/)
 🔧 **Technologies:** HTML, CSS, JavaScript  
